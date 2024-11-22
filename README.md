@@ -1,7 +1,7 @@
 <H3>NAME : SAKTHISWAR S</H3>
 <H3>REGISTER NO : 212222230127</H3>
 <H3>EX. NO : 4</H3>
-<H3>DATE : 11-09-2024</H3>
+<H3>DATE : 06-09-2024</H3>
 <H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
 
 ## Aim :
